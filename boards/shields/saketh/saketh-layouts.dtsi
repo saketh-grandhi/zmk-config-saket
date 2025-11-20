@@ -1,7 +1,7 @@
 #include <physical_layouts.dtsi>
 
 / {
-    physical_layout_sak: physical_layout_saketh {
+    physical_layout_saketh: physical_layout_saketh {
         compatible = "zmk,physical-layout";
         display-name = "saketh";
         keys  //                     w   h    x    y     rot    rx    ry

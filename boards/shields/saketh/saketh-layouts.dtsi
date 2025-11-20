@@ -1,9 +1,9 @@
 #include <physical_layouts.dtsi>
 
 / {
-    physical_layout_sak: physical_layout_sak {
+    physical_layout_sak: physical_layout_saketh {
         compatible = "zmk,physical-layout";
-        display-name = "sak";
+        display-name = "saketh";
         keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 100    0    0       0     0     0>
             , <&key_physical_attrs 100 100  100    0       0     0     0>
